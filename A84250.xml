@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull nevvs from Scotland: wherin is declared the great willingesse [sic] of the Lords &amp; Commons in Scotland, to aid the Parliament of England against the cavaliers and prelaticall enemies of this kingdome. Whereunto is anexed a fit parralell between England and Scotland, manifestly declaring the parity and equallity of their precedent distempers, and our present troubles, occasioned by the selfe same party of court parasits, papists, prelats and projectors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84250</idno>
+            <idno type="STC">Wing E3754</idno>
+            <idno type="STC">Thomason E116_44</idno>
+            <idno type="STC">ESTC R18040</idno>
+            <idno type="EEBO-CITATION">99860330</idno>
+            <idno type="PROQUEST">99860330</idno>
+            <idno type="VID">112450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull nevvs from Scotland: wherin is declared the great willingesse [sic] of the Lords &amp; Commons in Scotland, to aid the Parliament of England against the cavaliers and prelaticall enemies of this kingdome. Whereunto is anexed a fit parralell between England and Scotland, manifestly declaring the parity and equallity of their precedent distempers, and our present troubles, occasioned by the selfe same party of court parasits, papists, prelats and projectors.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sept. 13. London, Printed for T. Rider,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112450:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull Nevvs FROM SCOTLAND: Wherin is declared the great willingeſſe of the Lords &amp; Com<g ref="char:EOLhyphen"/>mons in <hi>Scotland,</hi> to aid the <hi>Parliament</hi> of England againſt the Cavaliers and Prelati<g ref="char:EOLhyphen"/>call enemies of this Kingdome. Whereunto is anexed a fit parralell between <hi>England</hi> and <hi>Scotland,</hi> manifeſtly declaring the parity and equallity of their pre<g ref="char:EOLhyphen"/>cedent diſtempers, and our preſent troubles, oc<g ref="char:EOLhyphen"/>caſioned by the ſelfe ſame party of Court Pa<g ref="char:EOLhyphen"/>raſits, Papiſts, Prelats and Projectors.</p>
+            <p>
+               <hi>Sept.</hi> 13. London, Printed for <hi>T. Rider,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112450:2"/>
+            <pb n="3" facs="tcp:112450:2"/>
+            <head>Exceeding Ioyfull Nevves FROM SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords &amp; Commons lately con<g ref="char:EOLhyphen"/>veneed in <hi>Scotland</hi> (as in all their former actions) have declared the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelves both truly noble and ver<g ref="char:EOLhyphen"/>tuouſly religious, all their aimes and ends ten<g ref="char:EOLhyphen"/>ding to the preſervation of that gordian knot Which nought but a final diſſolution ought to cancell, wherefore finding that the great and manifold diſtempers of this Kingdom (occa<g ref="char:EOLhyphen"/>ſioned by a malignant party) muſt (if not time<g ref="char:EOLhyphen"/>ly prevented) prove dangerous and deſtructive to the peace of their owne Kingdome, both Kingdoms running an equal hazard, likewiſe caſting an eye of pity on the diſtreſſed eſtate of bleeding <hi>Ireland,</hi> to whoſe ſuccour they have lent their brotherly aſſiſtance, our own King<g ref="char:EOLhyphen"/>dom
+<pb n="4" facs="tcp:112450:3"/>being ſo much buſied at home, all that we can do, being little enough, to prevent the active and malicious deſignes of thoſe who ſeek the ruin of the Kingdom. And as to <hi>Ire<g ref="char:EOLhyphen"/>land</hi> they have lent aſſiſtance, ſo now they are reſolved to lend us their brotherly aſſiſtance, vowing to venture both their lives and for<g ref="char:EOLhyphen"/>tunes in the juſt defence of the <hi>King</hi> and <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> againſt the malignant party of this King<g ref="char:EOLhyphen"/>dom whoſe endeavours, plots and ſtratagems, power and policie, hath always been bent to ruin both <hi>England</hi> and <hi>Scotland.</hi> As may appe<g ref="char:EOLhyphen"/>are in this enſuing diſcourſe, when <hi>Load</hi> was made B. of <hi>Canterbury,</hi> he began to bring into the Church ſuperſtitious Ceremonies here in <hi>England,</hi> and when his Majeſty went into <hi>Scot<g ref="char:EOLhyphen"/>land, Laud</hi> attending on him, he found great fault with the government of the Church, ſtri<g ref="char:EOLhyphen"/>ving to bring in the ſame ſuperſtitious Cere<g ref="char:EOLhyphen"/>monies into their Church, but finding oppoſi<g ref="char:EOLhyphen"/>tion, he by ſeveral ſtratagems, heaped oppreſ<g ref="char:EOLhyphen"/>ſions on oppreſſions, incenſing his Majeſty a<g ref="char:EOLhyphen"/>gainſt them, ſtriving to maintain that by force which Juſtice could not abet to his aid, he ſummoned all the <hi>Papiſts</hi> of this Kingdom, all
+<pb n="5" facs="tcp:112450:3"/>the <hi>Prelates,</hi> all the <hi>Projectors</hi> and <hi>Monopolizers</hi> of the Kingdom, theſe by their power, and with the money which they had robbed the <hi>King</hi> and <hi>Sub<g ref="char:EOLhyphen"/>ject</hi> of, maintained an Army which they carried a<g ref="char:EOLhyphen"/>gainſt <hi>Scotland,</hi> adding ſeverall oppreſſions, ſtealing their cartell, pillaging the houſes of the poore Sub<g ref="char:EOLhyphen"/>jects, to the utter ruin of many poore families, ſpoi<g ref="char:EOLhyphen"/>led whole fields of corne, with many unſpeakable ſufferings and oppreſſions, cauſing the Kingdome of <hi>Scotland</hi> to raiſe an Army for to defend themſelvs from the inteſtine malice of theſe inveterate ene<g ref="char:EOLhyphen"/>mies: By Gods Providence and unſpeakable mercy they were that yeare defeated. His Majeſty in His gracious diſpoſition concluding upon certain Ar<g ref="char:EOLhyphen"/>ticles of Peace, promiſing them Iuſtice &amp; an equall hearing and redreſſe of all their grievances, Com<g ref="char:EOLhyphen"/>miſſioners was choſen &amp; ſent for <hi>England,</hi> being ar<g ref="char:EOLhyphen"/>rived, they were put off from time to time, after<g ref="char:EOLhyphen"/>wards diſgraced, one of them impriſoned, and a greater addition of their oppreſſions and miſeries.</p>
+            <p>A 2. Army was riſed &amp; brought into the bow<g ref="char:EOLhyphen"/>els of this Kingdom, <hi>New caſtle</hi> was delivered up, by which meanes a ſecond <hi>Parliament</hi> was called, and a new treaty of Peace concluded, all their grie<g ref="char:EOLhyphen"/>vances was ſcanned in a parliamentary way, and
+<pb n="6" facs="tcp:112450:4"/>the Authors of their grievances was apparently known, ſome of them brought to condign puniſh<g ref="char:EOLhyphen"/>ment, others impriſoned, which were found the principall Authors, but the manifold oppreſſi<g ref="char:EOLhyphen"/>ons that lay heavy on the Kingdom, by reaſon of the many projects and taxes that were granted, &amp; the corruption of the Laws &amp; Courts of the King<g ref="char:EOLhyphen"/>dom, Both Biſhops Courts and others, took up ſo much time that before the High Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> could take order for the infliction of a juſt ſen<g ref="char:EOLhyphen"/>tence on the chief Authors, and make a ſtrict en<g ref="char:EOLhyphen"/>quiry who were their aſſiſtants, the aforeſaid ma<g ref="char:EOLhyphen"/>lignant party had fomented many lealouſies and Feares between his Majeſty &amp; his <hi>Parliament,</hi> ma<g ref="char:EOLhyphen"/>king differences of Prerogative and Priviledge, and having failed in their ends in <hi>Scotland,</hi> they now be<g ref="char:EOLhyphen"/>gan to work the deſtruction of <hi>England.</hi>
+            </p>
+            <p>Having raiſed a difference thus between his Ma<g ref="char:EOLhyphen"/>jeſty and <hi>Parliament,</hi> they further perſwaded his Majeſty to withdraw himſelfe from his Majeſty, His Perſon not being ſecure during his reſidence ſo neere them (nay it is apparently manifeſt, that to further their plots ſome of the chief Actors in this deſigne did come into the City, and encourage the <hi>Prentices</hi> and others to repaire to <hi>Weſtminſter</hi> in a
+<pb n="7" facs="tcp:112450:4"/>tumultuous manner offering affronts to ſeverall of his Majeſties ſervants, which act of theirs they fa<g ref="char:EOLhyphen"/>thered upon the <hi>Parliament,</hi> telling his Majeſty that ſuch tumults were incouraged and countenanced by the <hi>Parliament.</hi> Having by this meanes drawn his Majeſty from the <hi>Parliament,</hi> they framed many ſcandalous Declarations and Meſſages, which they ſent to the <hi>Parliament,</hi> as from his Majeſty; by that meanes buſying the <hi>Parliament</hi> in framing Anſwers (which they were forced to do to cleare themſelvs of theſe ignominious ſlaunders, which they had caſt upon them.) In the meane time they under<g ref="char:EOLhyphen"/>hand furniſhed themſelves with proviſion for war; to be ſhort they cauſed his Majeſty to levie a war againſt his <hi>Parliament</hi> &amp; (as in <hi>Scotland</hi>) ſo now to proclaime them traytors: At the difference that is between the proceedings of the malignant party in <hi>England</hi> and <hi>Scotland,</hi> one was <hi>Eccleſicſticall Ceremo<g ref="char:EOLhyphen"/>nies,</hi> the other His <hi>Majesties Prerogative,</hi> both being made but as Inſtruments by which they cunningly endeavor to ruin both Church, King &amp; Kingdom.</p>
+            <p>All which timely weighed, I really beleeve that there is not one man that is either maſter of reaſon or truly religious, that will bee an aſſiſtant to theſe ſeditious <hi>Shimeons</hi> and <hi>Eleazars,</hi> who delight in
+<pb n="8" facs="tcp:112450:5"/>nought but rapine and deſtruction; ſurely I muſt of neceſſity condemne that man, as guilty of his own deſtruction that ſhall take up armes againſt himſelfe. And let all the world Iudge what ſecu<g ref="char:EOLhyphen"/>rity, he can have that puts his life into their hands.</p>
+            <p>Let every man conſider ſeriouſly what oppreſſi<g ref="char:EOLhyphen"/>ons were heaped on this Kingdome by theſe <hi>Pre<g ref="char:EOLhyphen"/>lats</hi> &amp; <hi>Projectors,</hi> before the beginning of this <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> when their actions were limited by Au<g ref="char:EOLhyphen"/>thority, &amp; they may eaſily diſcern how boundleſſe their actions &amp; oppreſſions would be, if now they ſhould prevaile &amp; get the Law in their own hands</p>
+            <p>They that would then without ſcruple, take halfe and pretend right to it, would if they could prevail, ſeaze the whole &amp; give you Law for't, they having deſtined Law King and Kingdom to be at their diſpoſall. Therfore let all men that deſire ei<g ref="char:EOLhyphen"/>ther to injoy the <hi>Proteſtant</hi> profeſſion, or to declare themſelvs true ſubiects to his Majeſty, &amp; faithfull ſervants to the <hi>Parliament,</hi> take up the reſolution of the Lords &amp; Commons in <hi>Scotland,</hi> my life for my Religion, King &amp; Countrey. Let us fight valliantly, our cauſe is Iuſt, &amp; doubtles the Lord of Hoſts wil fight for us, &amp; we ſhall obtain a glorious victory.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
